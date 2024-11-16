@@ -25,6 +25,7 @@
   .bottom-right {
     bottom: 10px;
     right: 10px;
+    transform: rotate(180deg);
 
   }
 
@@ -44,7 +45,7 @@
   .item-right {
     bottom: 37px;
     right: 13px;
-    
+    transform: rotate(180deg);
   }
   
   .center {
